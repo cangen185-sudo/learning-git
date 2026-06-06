@@ -1,1 +1,1 @@
-# learning-git"≤‚ ‘Õ¨≤ΩµΩGitHub" 
+"i am learning git"
